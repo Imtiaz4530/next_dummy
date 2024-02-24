@@ -4,7 +4,7 @@ const Dashboard = () => {
   return (
     <div>
         <h1>Dashboard</h1>
-        <h2>Nothing is more import then family.</h2>
+        <h3>Ahh I did some mistake</h3>
     </div>
   )
 }
