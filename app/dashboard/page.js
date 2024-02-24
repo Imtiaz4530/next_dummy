@@ -2,7 +2,10 @@ import React from 'react'
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <div>
+        <h1>Dashboard</h1>
+        <h2>Nothing is more import then family.</h2>
+    </div>
   )
 }
 
