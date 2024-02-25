@@ -8,6 +8,7 @@ const Dashboard = () => {
       <p>List of CEO:</p>
       <ul>
         <li>Imtiaz</li>
+        <li>Muinna</li>
       </ul>
     </div>
   );
