@@ -4,10 +4,7 @@ const Dashboard = () => {
   return (
     <div>
       <h1>Dashboard</h1>
-      <h3>Ahh I did some mistake</h3>
-      <p>this is branch main</p>
-      <h6>I think I have to create a new branch.</h6>
-      <p>This is BrachA</p>
+      <p>This is branchC</p>
     </div>
   );
 };
