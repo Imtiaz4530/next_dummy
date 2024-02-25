@@ -5,6 +5,13 @@ const Dashboard = () => {
     <div>
       <h1>Dashboard</h1>
       <p>This is branchC</p>
+      <p>List of worker:</p>
+      <ul>
+        <li>Imtiaz</li>
+        <li>Munna</li>
+        <li>Mona</li>
+        <li>Penu</li>
+      </ul>
     </div>
   );
 };
