@@ -5,12 +5,10 @@ const Dashboard = () => {
     <div>
       <h1>Dashboard</h1>
       <p>This is branchC</p>
-      <p>List of worker:</p>
+      <p>List of CEO:</p>
       <ul>
         <li>Imtiaz</li>
-        <li>Munna</li>
-        <li>Mona</li>
-        <li>Penu</li>
+        <li>Muinna</li>
       </ul>
     </div>
   );
