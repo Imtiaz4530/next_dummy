@@ -5,9 +5,13 @@ const Dashboard = () => {
     <div>
       <h1>Dashboard</h1>
       <p>This is branchC</p>
-      <p>List of CEO:</p>
+      <p>List of programmign language:</p>
       <ul>
-        <li>Imtiaz</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Javascript</li>
+        <li>C++</li>
+        <li>Ruby</li>
       </ul>
     </div>
   );
